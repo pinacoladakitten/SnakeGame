@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 13, 2020, 11:51:34 AM
+    Author     : Notics
+*/
+
+body {
+  text-align:  center;
+  font-family: helvetica;
+  background-color: #484848;
+}
+canvas {
+    border: 2px;
+}
+
+body h3 {
+    font-weight: bold;
+    color: white;
+}
+
+table th, td{
+	width: 40%;
+    border: 0px solid white;
+    padding-top: 12px;
+    padding-bottom: 5px;
+    text-align: center;
+    color: white;
+}
+table {
+    margin-left:auto; 
+    margin-right:auto;
+}
+th {
+    text-decoration: underline;
+    color: white;
+}
